@@ -1,0 +1,22 @@
+{
+  "name": "unit-converter",
+  "version": "1.0.0",
+  "description": "A unit converter made in TypeScript and Deno",
+  "keywords": [
+    "converter"
+  ],
+  "homepage": "https://github.com/jthecoder12/UnitConverter#readme",
+  "bugs": {
+    "url": "https://github.com/jthecoder12/UnitConverter/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jthecoder12/UnitConverter.git"
+  },
+  "license": "GPL-3.0-or-later",
+  "author": "jthecoder12",
+  "type": "commonjs",
+  "scripts": {
+    "start": "deno main.ts"
+  }
+}
