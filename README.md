@@ -11,3 +11,5 @@ Compiling:
 Make sure you have [Deno](https://deno.com/), [NodeJS](https://nodejs.org/), and [NPM](https://www.npmjs.com/). Or you could install the TypeScript NPM package and run it that way.
 <br>
 Type <code>npm start</code> to run the program.
+
+To make an executable, type: <code>deno compile -A -o unitconverter.exe main.ts</code>.
