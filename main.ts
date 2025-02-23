@@ -92,3 +92,5 @@ switch(conversion) {
         break;
     }  
 }
+
+prompt("Press return to close...");
